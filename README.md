@@ -1,4 +1,4 @@
-## Welcome to my profile!! Starting my career as a fullstack web developer, just sharing some open studies!
+## Welcome to my profile!! Starting up my career as a fullstack web developer, just sharing some open studies!
 
  <div>
   <a href="https://github.com/cricosydorack">
